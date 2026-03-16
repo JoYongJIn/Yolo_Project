@@ -1,0 +1,5 @@
+train: /content/yolov5/images_train
+val: /content/yolov5/images_val
+
+nc: 3
+names: ['iPad', 'red_bar', 'blue_bar']

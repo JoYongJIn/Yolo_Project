@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "blue_bar"
+    },
+    {
+      "id": 1,
+      "name": "ipad"
+    },
+    {
+      "id": 2,
+      "name": "red_bar"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
